@@ -6,3 +6,5 @@ https://arxiv.org/abs/1812.06247
 
 This is to help ensure a more stable starting setup and the concept developed by FastAI/Jeremy Howard.
 By adding mean shift of - .1, performance improved so that it was able to win an initial comparison of Relu, General Relu, LiSHT for image classification.
+
+More detailed article with testing results:  https://medium.com/@lessw/comparison-of-activation-functions-for-deep-learning-initial-winner-ftswish-f13e2621847
